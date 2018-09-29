@@ -60,15 +60,15 @@
 			          </tr>  
 			          <tr>
 			            <td class="font-popup">Alamat&emsp;&emsp;&emsp;&emsp;:</td>
-			            <td class="font-popup">Wisma Lidah Kulon B 62c</td>          
+			            <td class="font-popup">JL. Lidah Kulon Blok B 62c</td>          
 			          </tr>  
 			          <tr>
 			            <td class="font-popup">NO. Telp&emsp;&emsp;&emsp;&nbsp;:</td>
-			            <td class="font-popup">0858568557</td>          
+			            <td class="font-popup">085856875570</td>          
 			          </tr>  
 			          <tr>
 			            <td class="font-popup">Hobby&emsp;&emsp;&emsp;&emsp;&nbsp;:</td>
-			            <td class="font-popup">Olahraga</td>          
+			            <td class="font-popup">Bulu Tangkis</td>          
 			          </tr>       
 	      	    </table>	
 				<a class="popup-close" href="#closed">X</a>

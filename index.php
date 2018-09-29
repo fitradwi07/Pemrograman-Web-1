@@ -49,7 +49,7 @@
 			          </tr>
 			          <tr>
 			            <td class="font-popup">Jurusan&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</td>
-			            <td class="font-popup">Informatika</td>          
+			            <td class="font-popup">Teknik Informatika</td>          
 			          </tr>
 			          <tr>
 			            <td class="font-popup">Tanggal Lahir&emsp; :</td>
