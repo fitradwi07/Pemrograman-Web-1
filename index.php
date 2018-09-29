@@ -2,7 +2,7 @@
 	include("header.php");
 ?>
 	<section>
-		<h1 style="margin-left: 0%"><u>Data Pribadi</u></h1>
+		<h1 style="margin-left: 0%"><u>Data Pribadi test push</u></h1>
 		<div class="content-table">
 			<table width="60%" style="font-size:14px; border-radius: 8px; border:1px solid #64abff">
 	        <tr>
